@@ -21,8 +21,3 @@ justify-content: center;
 #about #pic img{
     display:none;
 }
-@media(max-width:1400px){
- #home .main h2 .headings{
-      margin-top:-300px;
-}
-}
